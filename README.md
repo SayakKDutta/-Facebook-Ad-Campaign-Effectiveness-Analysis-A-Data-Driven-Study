@@ -16,16 +16,12 @@ The dataset includes information on the three Facebook ad campaigns conducted in
 - **notebooks/**
   - **Facebook_Ad_Campaign_Analysis.ipynb**: Jupyter Notebook containing the code for data analysis and visualization.
 
-## Usage
-1. Clone the repository to your local machine.
-2. Navigate to the `notebooks` directory.
-3. Open the `Facebook_Ad_Campaign_Analysis.ipynb` notebook using Jupyter Notebook or JupyterLab.
-4. Run the code cells to execute the analysis and generate visualizations.
-5. Review the results and recommendations in the PDF report located in the `results` directory.
+##Conclusions
+Based on the results of A/B testing and campaign analysis, we can come up with some actionable approach:
 
-## Requirements
-- Python 3.x
-- Required Python packages: pandas, numpy, matplotlib, seaborn, scikit-learn
+With much higher performance in terms of conversion rate and click through rate found in ad campaign 916 and 936, the company should prioritize scaling them up. This should, obviously, be taken with caution, as we cannot know precisely how the campaigns would change reaching a larger number of audiences.
+Given a great budget, 1178 was able to generate large conversions and impressions. However, it efficiency is far lower than what the other two campaigns can generate with a lower budget. The company should investigate the reason for the lack of engagement and conversions of 1178, especially given that it is exposed to a much larger audience reach.
+The most interested audiences are from the age group 30-34. The company should target this age group for highest user engagement and interactions. On the other hand, other existing age groups should also be investigated to understand the reason for lower interactions with ad.
 
 ## Contributing
 1. Fork the repository.
